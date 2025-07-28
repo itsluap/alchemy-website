@@ -30,7 +30,7 @@ export default function About() {
                 Founded in Houston, TX, Alchemy designs and manufactures BESS solutions for C&I needs. Our US-based production ensures high quality, compliance, and fast delivery – supporting local jobs while solving global power challenges.
               </p>
               <p className="text-lg text-gray-600">
-                We understand the critical nature of power reliability in commercial and industrial operations. That's why we've built our company around the principle that energy storage should be as reliable as the operations it supports.
+                We understand the critical nature of power reliability in commercial and industrial operations. That&apos;s why we&apos;ve built our company around the principle that energy storage should be as reliable as the operations it supports.
               </p>
             </div>
             <div className="relative">
@@ -121,7 +121,7 @@ export default function About() {
             Ready to Work with Alchemy?
           </h2>
           <p className="text-xl mb-8">
-            Contact us for a custom assessment of your facility's energy storage needs.
+            Contact us for a custom assessment of your facility&apos;s energy storage needs.
           </p>
           <Link 
             href="/contact"

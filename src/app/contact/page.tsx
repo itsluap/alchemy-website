@@ -44,7 +44,7 @@ export default function Contact() {
               Ready to Optimize Your Power?
             </h1>
             <p className="text-xl md:text-2xl max-w-4xl mx-auto">
-              Contact us for a free consultation and discover how energy storage can solve your facility's power challenges.
+              Contact us for a free consultation and discover how energy storage can solve your facility&apos;s power challenges.
             </p>
           </div>
         </div>
@@ -256,7 +256,7 @@ export default function Contact() {
             Ready to Get Started?
           </h2>
           <p className="text-xl mb-8">
-            Don't wait for the next power outage or high demand charge. Contact us today to start your journey toward energy independence.
+            Don&apos;t wait for the next power outage or high demand charge. Contact us today to start your journey toward energy independence.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a 

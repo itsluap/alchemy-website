@@ -11,7 +11,7 @@ export default function Resources() {
               Resources for Power Efficiency
             </h1>
             <p className="text-xl md:text-2xl max-w-4xl mx-auto">
-              Download our comprehensive guides, studies, and resources to understand how energy storage can solve your facility's challenges.
+              Download our comprehensive guides, studies, and resources to understand how energy storage can solve your facility&apos;s challenges.
             </p>
           </div>
         </div>
@@ -168,7 +168,7 @@ export default function Resources() {
                 C&I Power Audit Checklist: Identify Peaks and Savings Opportunities
               </h3>
               <p className="text-gray-600 mb-4 flex-grow">
-                Use this checklist to self-assess your facility's power issues and spot opportunities for savings and energy independence.
+                Use this checklist to self-assess your facility&apos;s power issues and spot opportunities for savings and energy independence.
               </p>
               <Link 
                 href="/contact"

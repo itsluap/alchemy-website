@@ -19,7 +19,7 @@ export default function Home() {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
           <div className="text-center">
             <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              Unlock Reliable Power for Your Operations with Alchemy's Made-in-the-US BESS
+              Unlock Reliable Power for Your Operations with Alchemy&apos;s Made-in-the-US BESS
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-4xl mx-auto">
               Versatile power solutions for C&I facilities – solve outages, sags, and demand charges with instant response and scalability.
@@ -90,7 +90,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              Alchemy's Battery Energy Storage System (BESS)
+              Alchemy&apos;s Battery Energy Storage System (BESS)
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Made in the US for quality and speed. Benefits: Resilience (uptime during disruptions), Power Quality (mitigates sags/swells), Demand Reduction ($4,000–$10,000/year savings), Arbitrage ($2,000–$5,000/year)
@@ -178,7 +178,7 @@ export default function Home() {
             Ready to Optimize Your Power?
           </h2>
           <p className="text-xl mb-8">
-            Download our comprehensive 'Power Problems Guide' to understand how energy storage can solve your facility's challenges.
+            Download our comprehensive &apos;Power Problems Guide&apos; to understand how energy storage can solve your facility&apos;s challenges.
           </p>
           <Link 
             href="/power-problems-guide"

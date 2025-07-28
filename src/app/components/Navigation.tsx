@@ -51,7 +51,6 @@ export default function Navigation() {
 
   // Calculate navigation states based on actual hero height
   const isOverHero = scrollY < heroHeight;
-  const isScrolled = scrollY > 20;
   const isDeepScrolled = scrollY > 100;
 
   // Dynamic text color based on scroll position

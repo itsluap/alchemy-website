@@ -51,7 +51,7 @@ export default function PowerProblemsGuide() {
           <div className="grid md:grid-cols-2 gap-12">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-                What's Inside the Guide
+                What&apos;s Inside the Guide
               </h2>
               <div className="space-y-4">
                 <div className="flex items-start">
@@ -98,7 +98,7 @@ export default function PowerProblemsGuide() {
                 Download Your Free Guide
               </h3>
               <p className="text-gray-600 mb-6">
-                Enter your information below to receive the "Power Problems for C&I.pdf" guide and learn how energy storage can solve your facility's challenges.
+                Enter your information below to receive the &quot;Power Problems for C&I.pdf&quot; guide and learn how energy storage can solve your facility&apos;s challenges.
               </p>
               <form onSubmit={handleSubmit} className="space-y-4">
                 <div>
@@ -200,7 +200,7 @@ export default function PowerProblemsGuide() {
             Ready to Solve Your Power Problems?
           </h2>
           <p className="text-xl mb-8">
-            Download the complete guide to understand how energy storage can transform your facility's power reliability and costs.
+            Download the complete guide to understand how energy storage can transform your facility&apos;s power reliability and costs.
           </p>
           <Link 
             href="/contact"

@@ -27,7 +27,7 @@ export default function Products() {
                 Complete Energy Storage Solutions
               </h2>
               <p className="text-lg text-gray-600 mb-6">
-                Our Battery Energy Storage Systems (BESS) are designed specifically for commercial and industrial applications. Each system includes advanced inverters, monitoring capabilities, and scalable architecture to meet your facility's unique needs.
+                Our Battery Energy Storage Systems (BESS) are designed specifically for commercial and industrial applications. Each system includes advanced inverters, monitoring capabilities, and scalable architecture to meet your facility&apos;s unique needs.
               </p>
               <p className="text-lg text-gray-600">
                 Made in the US for reliability, compliance, and fast delivery. Our systems integrate seamlessly with existing infrastructure while providing the flexibility to grow with your operations.
@@ -54,7 +54,7 @@ export default function Products() {
               Battery Benefits
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              From the conversation and "What only batteries can do.pdf" - discover the unique advantages of energy storage.
+              From the conversation and &quot;What only batteries can do.pdf&quot; - discover the unique advantages of energy storage.
             </p>
           </div>
           

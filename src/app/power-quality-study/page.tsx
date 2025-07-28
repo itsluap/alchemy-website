@@ -51,7 +51,7 @@ export default function PowerQualityStudy() {
           <div className="grid md:grid-cols-2 gap-12">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-                What You'll Get
+                What You&apos;ll Get
               </h2>
               <div className="space-y-4">
                 <div className="flex items-start">
@@ -60,7 +60,7 @@ export default function PowerQualityStudy() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Device Installation</h3>
-                    <p className="text-gray-600">We'll hook up the Fluke Logger 1738 to your electrical system</p>
+                    <p className="text-gray-600">We&apos;ll hook up the Fluke Logger 1738 to your electrical system</p>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -87,7 +87,7 @@ export default function PowerQualityStudy() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Custom BESS Design</h3>
-                    <p className="text-gray-600">Get a tailored energy storage solution based on your facility's needs</p>
+                    <p className="text-gray-600">Get a tailored energy storage solution based on your facility&apos;s needs</p>
                   </div>
                 </div>
               </div>
@@ -98,7 +98,7 @@ export default function PowerQualityStudy() {
                 Get Your Free Study
               </h3>
               <p className="text-gray-600 mb-6">
-                Enter your information below to receive our "Alchemy Power Quality Study Offering.pdf" and schedule your free assessment.
+                Enter your information below to receive our &quot;Alchemy Power Quality Study Offering.pdf&quot; and schedule your free assessment.
               </p>
               <form onSubmit={handleSubmit} className="space-y-4">
                 <div>
@@ -203,7 +203,7 @@ export default function PowerQualityStudy() {
             Ready to Optimize Your Power?
           </h2>
           <p className="text-xl mb-8">
-            Don't wait for the next power outage or high demand charge. Start your journey toward energy independence today.
+            Don&apos;t wait for the next power outage or high demand charge. Start your journey toward energy independence today.
           </p>
           <Link 
             href="/contact"
