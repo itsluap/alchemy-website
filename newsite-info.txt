@@ -1,0 +1,130 @@
+Website Outline and Content for Alchemy
+Platform: WordPress (as specified). Use a clean, professional theme like Astra or GeneratePress. Plugins: Elementor (page builder), Yoast SEO, HubSpot (CRM integration for leads), Contact Form 7 (forms). SEO keywords: "energy storage for warehouses," "battery solutions power quality," "industrial ESS outages." Structure: 5 core pages + blog. Mobile-responsive, fast-loading.
+1. Home Page
+    • Purpose: Attract visitors, highlight problems/solutions, drive CTAs for lead magnets. Add great looking images of battery systems.
+    • Content: 
+        ◦ Hero Section: Headline: "Unlock Reliable Power for Your Operations with Alchemy's Made-in-the-US BESS." Subheadline: "Versatile power solutions for C&I facilities – solve outages, sags, and demand charges with instant response and scalability." Image: Industrial warehouse with BESS installation. CTA Button: "Get Free Power Quality Study" (links to form for "Alchemy Power Quality Study Offering.pdf" – collect email for 30-day Fluke Logger study). We have Hubspot CRM and we can link it.
+        ◦ Problem Section: "Power Challenges Costing Your Business: Outages halt operations ($1,000–$5,000/event), sags/swells damage equipment ($10,000/year), demand charges add $4,000–$10,000/year."  Add summary and link to the recent ERCOT Value of Lost Load Study: https://www.brattle.com/wp-content/uploads/2024/09/Value-of-Lost-Load-Study-for-the-ERCOT-Region.pdf.
+        ◦ Solution Section: "Alchemy's Battery Energy Storage System (BESS): Made in the US for quality and speed. Benefits: Resilience (uptime during disruptions), Power Quality (mitigates sags/swells), Demand Reduction ($4,000–$10,000/year savings), Arbitrage ($2,000–$5,000/year)”
+        ◦ Battery Fundamentals: Embed content from "What only batteries can do.pdf": "Versatile Powerhouse: Multitask peak shaving, backups, and more. Local Control: Place anywhere. Instant Response: Smooth spikes. Flexible & Scalable: Grow as needed. Rapid Setup: Quick deployment."
+        ◦ CTA Footer: "Download 'Power Problems Guide'" (form for "Power Problems for C&I.pdf" – email capture).
+2. About Us
+    • Purpose: Build trust, emphasize US manufacturing and expertise.
+    • Content: 
+        ◦ Header: "Alchemy: Innovators in Made-in-the-US Energy Storage."
+        ◦ Story: "Founded in Houston, TX, Alchemy designs and manufactures BESS solutions for C&I needs. Our US-based production ensures high quality, compliance, and fast delivery – supporting local jobs while solving global power challenges."
+        ◦ Mission: "Empower facilities with versatile batteries that provide resilience, efficiency, and scalability, from outages to demand management."
+        ◦ CTA: "Contact Us for a Custom Assessment" (email form).
+3. Products & Services
+    • Purpose: Detail BESS offerings, tie to battery benefits and study.
+    • Content: 
+        ◦ Header: "BESS: Versatile, Made-in-the-US Power Solutions."
+        ◦ Overview: "Scalable systems, including inverter, for warehouses and manufacturing. Proudly made in the US for reliability." Need to clarify our core product categories.
+        ◦ Benefits Grid (from conversation and "What only batteries can do.pdf"): 
+            ▪ Versatile Powerhouse: Handles peak shaving, backups, renewables integration.
+            ▪ Local Energy Control: Deploy anywhere, manage power on-site.
+            ▪ Instant Response: Smooths voltage spikes/dips.
+            ▪ Flexible & Scalable: Modular design for growth.
+            ▪ Rapid Setup: Quick installation, minimal downtime.
+            ▪ Forklift Optimization: Enables electric charging ($7,200/year savings), faster cycles (10–20% productivity).
+        ◦ Services: "Start with our free 30-day Power Quality Study (Fluke Logger 1738): Hook up device, set parameters, record 2,800 measurements over 15-min averages, analyze for max loads, inform BESS design (from 'Alchemy Power Quality Study Offering.pdf')."
+        ◦ CTA: "Download Study Offering PDF" (email form).
+4. Resources/Blog
+    • Purpose: SEO-driven lead gen with magnets.
+    • Content: 
+        ◦ Header: "Resources for Power Efficiency."
+        ◦ Downloads: "Power Problems Guide" (Power Problems for C&I.pdf – form collect email); "Power Quality Study Offering" (Alchemy Power Quality Study Offering.pdf); "Fundamental Power of Batteries" (What only batteries can do.pdf). Also add Mush’s podcast appearances, ai generated podcasts, etc.
+        ◦ Blog Posts: Need to come up with these. I can write them.
+        ◦ CTA: "Subscribe for Updates" (email form – nurture with later emails).
+5. Contact Us
+    • Purpose: Capture leads, support sales.
+    • Content: 
+        ◦ Header: "Ready to Optimize Your Power?"
+        ◦ Form: Name, Email, Company, Facility Type, Power Issues (dropdown: Outages, Sags, Demand Charges). Message field.
+        ◦ Details: "Email: [your.email@alchemy.com]. Phone: [number]. Made in the US for Reliability."
+        ◦ CTA: "Submit for a Free Consultation" (later follow-up for study or pilot).
+Technical Setup on WordPress:
+    • Theme/Plugins: Astra theme (free, fast); Elementor (builder); Yoast SEO; HubSpot plugin (lead tracking); WPForms (forms).
+    • SEO: Meta titles: "Energy Storage Solutions for C&I | Alchemy." Keywords: "industrial ESS," "battery power quality," "warehouse energy storage."
+    • Launch: Install WordPress, add pages, optimize for speed (WP Rocket plugin). Go live in 1–2 weeks.
+
+
+Lead Magnets:
+        1. Power Quality Study Offering – completed a 1 page pdf
+        2. Power Problems Guide – see below
+        3. Power Problems Self Assessment – see below
+        4. Fundamental Power of Batteries – completed a 1 page pdf
+        5. Common C&I Power Problems – completed a 1 page pdf
+        6. ERCOT Value of Lost Load Summary – see below
+        7. Blog posts with a CTA - working
+        8. Ai generated podcasts made from written content – have 1 or 2
+Challenge question for us: is our lead magnet undeniably good? Does it offer so much value that a target can’t help but say “yes”?
+    • Use Hubspot CRM to collect data.
+    • Send lead magnets through Hubspot email
+    • Send out individual emails from Alchemy team to their contacts
+    • Post on socials
+
+The Ultimate Guide to Behind-the-Meter Energy Independence for C&I Businesses
+By Alchemy, Your Partner in Power Solutions
+In an era of grid instability and rising energy costs, behind-the-meter (BTM) energy storage offers C&I businesses a path to independence. This guide draws on key insights from Alchemy's expertise to help you achieve reliable, cost-effective power.
+Why BTM Energy Independence Matters
+Grid challenges like outages, voltage fluctuations, and demand charges disrupt operations and add costs. BTM batteries provide local control, instant response, and scalability, enabling energy independence without relying on the grid.
+The Fundamental Power of Batteries
+Batteries are a versatile powerhouse for C&I applications:
+    • Versatile Powerhouse: Multitask peak shaving, backups, and renewables integration.
+    • Local Energy Control: Manage power on-site, reducing waste and enhancing resilience.
+    • Instant Response: Smooth spikes and dips for stable operations.
+    • Flexible and Scalable: Adapt to any size, from small facilities to large grids.
+    • Rapid Setup: Quick deployment for immediate value.
+These benefits cut costs, improve reliability, and adapt to modern demands.
+Steps to Energy Independence
+    1. Assess Your Load: Use tools like Fluke Logger for harmonics and event recording.
+    2. Identify Savings: Calculate peaks, sags, and arbitrage opportunities.
+    3. Design BTM System: Tailor batteries for independence.
+    4. Implement and Scale: Start with pilots for ROI validation.
+Alchemy's Role
+Our US-made BESS delivers these benefits with proven results. Enter your email to receive a full ROI calculator and schedule a consultation.
+[Email Form Placeholder: Name, Email, Company]
+
+C&I Power Audit Checklist: Identify Peaks and Savings Opportunities
+By Alchemy, Experts in Energy Optimization
+Use this checklist to self-assess your facility's power issues, inspired by our Fluke Logger process. Spot opportunities for savings and energy independence.
+Step 1: Hook Up Measuring Device
+    • Connect to feeders or service entrance.
+    • Secure the area to prevent tampering.
+Step 2: Set Power System Parameters
+    • Configure topology to match your system.
+    • Verify line frequency and nominal voltage.
+Step 3: Set Recording Time
+    • Record 15-minute averages over 30 days (2,800 measurements).
+Step 4: Record the Data
+    • Track power (Watts), reactive power (vars), apparent power (VA), power factor, and energy (kWh).
+    • Note peaks, sags, swells, and harmonics.
+Step 5: Download and Review
+    • Graph data to find max current/power per phase.
+    • Calculate savings: Demand reduction ($4K–$10K/year), arbitrage ($2K–$5K/year), quality improvements ($10K/year).
+Next Steps for Savings
+Enter your email for a customized Power Study for your operations.
+[Email Form Placeholder: Name, Email, Company]
+
+The Hidden Costs of Power Outages: VoLL Insights for ERCOT C&I Businesses
+By Alchemy, Experts in Energy Storage Solutions
+Power outages in ERCOT can cost C&I businesses thousands per MWh. This guide summarizes a recent Brattle Group study on Value of Lost Load (VoLL), highlighting risks and how energy storage mitigates them.
+Key Findings from the VoLL Study
+    • ERCOT-Wide VoLL: ~$35,000 per unserved MWh for a 1-hour outage, higher than previous estimates.
+    • C&I VoLL Estimates:
+        ◦ Small C&I: $666,907/MWh (1-hour) due to low usage and high per-event costs.
+        ◦ Medium/Large C&I: $22,721/MWh (1-hour), driven by lost revenue.
+    • Outage Costs: Increase non-linearly with duration; advance warning reduces costs by 35%+ for small C&I.
+    • Methodology: Customer surveys (2,991 residential, 1,711 C&I) and econometric models, weighted for ERCOT population.
+    • Implications: High VoLL for C&I justifies investments in reliability to avoid $1,000–$5,000 per event losses.
+How Energy Storage Reduces VoLL Risks
+Alchemy's 48V ESS minimizes outage impacts:
+    • Resilience: Provides backup, reducing VoLL by ensuring uptime.
+    • Power Quality: Mitigates sags/swells, saving $10,000/year in damage.
+    • Demand Reduction: Shifts peaks, saving $4,000–$10,000/year.
+    • Total Savings: Up to $53,450/year, with 2.1-year payback.
+Enter your email to receive the full VoLL report summary and explore ESS options.
+[Email Form Placeholder: Name, Email, Company]
+
+
